@@ -1,0 +1,34 @@
+header button a{background-color: yellow;
+margin: 200px;
+
+font-size:x-large;
+justify-content: center;
+text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+    justify-content: center;
+}
+header{
+    justify-content: center;
+    text-align: center;
+    background-color: green;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    bottom: 20px;
+    box-sizing: 20px;
+}
+header button{
+      justify-content: center;
+      text-align: center;
+      box-shadow: 10px;
+
+      border: 20px;
+      margin-top: 20px;
+}
+header h1{
+    text-align: center;
+    font-size:x-large;
+    background-color: yellow;
+}

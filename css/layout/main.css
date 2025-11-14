@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(198, 255, 214);
+}   
+
+main p{
+display: flex;
+}
+main {
+    background-color: greenyellow;
+    margin-top: 20px;
+    box-sizing: 20px;
+     
+}
+main .comidinha {
+
+    justify-content: center;
+    border-radius: 50%;
+    
+}
+
+main ::after{
+    background-color: black;
+}

@@ -1,5 +1,6 @@
 @import './reset.css';
 @import './tipography.css';
 @import './layout/footer.css';
-@import './layout/header.css';
 @import './layout/main.css';
+@import './layout/header.css';
+
